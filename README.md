@@ -1,5 +1,8 @@
 ## **Organizador de Dados para Declaração de Imposto de Renda – Microsoft Excel**
 
+![Image](https://github.com/user-attachments/assets/e7f5d65c-ce98-4fee-a021-c5d08ec4f234)
+![Image](https://github.com/user-attachments/assets/7f2b1190-9486-4201-b400-c3dbeffa6293)
+![Image](https://github.com/user-attachments/assets/b5ceafee-cbe4-428b-aea1-5fe4b5b1de77)
 
 
 ### 1. **Títular**
